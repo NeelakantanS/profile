@@ -1,2 +1,2 @@
 My Profile -
-A short description of who I am and what I do.
+A quick peek of who I am and what I do.
