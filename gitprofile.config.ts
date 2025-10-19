@@ -51,11 +51,11 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of Neelakantan Subramanian', description: '', imageURL: '' },
   social: {
-    linkedin: 'ariful-alam',
+    linkedin: 'neel8',
     x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -70,9 +70,9 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     discord: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: 'https://www.neelakantan.vercel.app',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'neelakantan.sub@gmail.com',
   },
   resume: {
     fileUrl:
