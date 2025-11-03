@@ -22,7 +22,7 @@ const ListItem = ({
     <h3 className="font-semibold">{position}</h3>
     <div className="mb-4 font-normal">
       <a href={companyLink} target="_blank" rel="noreferrer">
-        {company}
+        {company}df
       </a>
     </div>
   </li>
